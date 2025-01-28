@@ -1,17 +1,17 @@
-body{
-    background-color: beige;
+body {
+  background-color: rgb(255, 255, 255);
 }
-h1{
-    font-size: 25px;
-    color:#8f55b6fb;
-    text-align: center;
-}
-
-.description{
-text-align: center;
-font: size 18px;
+h1 {
+  font-size: 25px;
+  color: #8f55b6fb;
+  text-align: center;
 }
 
-p{
-    font-weight: bold;
+.description {
+  text-align: center;
+  font: size 18px;
+}
+
+p {
+  font-weight: bold;
 }
